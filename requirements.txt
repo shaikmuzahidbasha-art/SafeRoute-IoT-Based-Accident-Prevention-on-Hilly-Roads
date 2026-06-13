@@ -1,0 +1,3 @@
+Arduino IDE 2.x
+Arduino AVR Boards
+HC-SR04 Ultrasonic Sensor Library (optional)

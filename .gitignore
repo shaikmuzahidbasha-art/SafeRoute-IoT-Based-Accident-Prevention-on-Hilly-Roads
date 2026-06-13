@@ -1,0 +1,19 @@
+# Arduino
+
+*.tmp
+*.bak
+*.swp
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# IDE Files
+
+.vscode/
+.idea/
+
+# Logs
+
+*.log
