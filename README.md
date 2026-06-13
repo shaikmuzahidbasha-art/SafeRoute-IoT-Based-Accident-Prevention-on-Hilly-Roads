@@ -50,12 +50,14 @@ SafeRoute addresses this challenge by detecting vehicles near a blind turn and i
 6. Green LEDs indicate safe passage when no vehicle is detected.
 
 ---
----
 
 ## Project Gallery
 
 ### Prototype Top View
 ![Prototype Top View](images/prototype_top_view.jpeg)
+
+### Warning System Active
+![Warning System Active](images/warning_system_active.jpeg)
 
 ### Project Poster
 ![Project Poster](images/project_poster.jpeg)
