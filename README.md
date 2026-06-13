@@ -93,15 +93,13 @@ SafeRoute-IoT-Based-Accident-Prevention-on-Hilly-Roads
 ├── code
 │   └── SafeRoute.ino
 │
-├── images
-│   ├── project_poster.jpg
-│   ├── prototype_top_view.jpg
-│   ├── warning_system_active.jpg
-│   ├── arduino_controller.jpg
-│   └── ultrasonic_sensor.jpg
-│
-└── videos
-    └── safroute_demo.mp4
+└── images
+├── project_poster.jpg
+├── prototype_top_view.jpg
+├── warning_system_active.jpg
+├── arduino_controller.jpg
+└── ultrasonic_sensor.jpg
+
 ```
 
 ---
